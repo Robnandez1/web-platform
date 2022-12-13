@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Web Platform Installer: C++ Redistributable and PHP Manager Installation, and MySQL
+<h1>osTicket - Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL
 </h1>
 
 
@@ -23,7 +23,7 @@
 
 <h2>Prerequisite:</h2>
 
-- Web Platform Installer: C++ Redistributable and PHP Manager Installation, and MySQL
+- Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL
 
 <h2>Installation Steps:</h2>
 
